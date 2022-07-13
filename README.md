@@ -21,10 +21,18 @@ Face authentication involves comparing an input image only with the image that b
 - CNN
 - Location Finder
 
+## MAIN PAGE
 ![image](https://user-images.githubusercontent.com/67871362/178801358-1bc216de-d758-4767-b3fe-70fb67200da6.png)
 
+## DETAILS ENTRY FOR RECORD AND ALSO FOR TAKING SAMPLE PHOTOS
 ![image](https://user-images.githubusercontent.com/67871362/178801521-f935d949-bbff-4667-b38a-45a98c08e129.png)
 
+## TRAINING OF THE DATA
+![training](https://user-images.githubusercontent.com/67871362/178802366-cf4138c6-5a0f-4828-b9eb-c15c22f51d21.png)
+
+## FACE DETECTION OF THE PERSON
 ![image](https://user-images.githubusercontent.com/67871362/178801409-35dea222-1cff-47c9-9dd9-6790e60cc49c.png)
+
+![face_detected](https://user-images.githubusercontent.com/67871362/178802078-793ffb09-bcf7-41f9-b493-7e7a51852483.png)
 
 
