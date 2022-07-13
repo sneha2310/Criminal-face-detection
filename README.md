@@ -35,4 +35,13 @@ Face authentication involves comparing an input image only with the image that b
 
 ![face_detected](https://user-images.githubusercontent.com/67871362/178802078-793ffb09-bcf7-41f9-b493-7e7a51852483.png)
 
+## PHOTOS
+![photos](https://user-images.githubusercontent.com/67871362/178802866-e4c26d37-e205-43b7-a7ba-2ff3b9870ada.png)
+
+## EMAIL 
+![email](https://user-images.githubusercontent.com/67871362/178803025-fc9bcc99-439e-4b7e-98b9-4b7c2e5759a8.png)
+
+## LOCATION
+![map](https://user-images.githubusercontent.com/67871362/178803083-c5e40fd7-1788-42be-9bc1-16b15ab9ea3a.png)
+
 
