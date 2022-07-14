@@ -2,10 +2,10 @@
 
 - [Face-Detection-and-Facial-Expression-Recognition](#face-detection-and-facial-expression-recognition)
   - [Table of Contents]
-  - [PROBLEM STATEMEN]
-  - [FACE DETECTION]
-  - [FACE VERIFICATION]
-  - [TECHNOLOGY USED]
+  - [Problem Statement]
+  - [Face Detection]
+  - [Face Verification]
+  - [Technology Used]
   - [References]
 
 
